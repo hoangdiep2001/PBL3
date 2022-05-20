@@ -1,0 +1,48 @@
+D:\Hoc\Net\PBl\aaaa\Quan-ly-ban-tra-sua-main\Quanlybantrasua\bin\Debug\Quanlybantrasua.exe.config
+D:\Hoc\Net\PBl\aaaa\Quan-ly-ban-tra-sua-main\Quanlybantrasua\bin\Debug\Quanlybantrasua.exe
+D:\Hoc\Net\PBl\aaaa\Quan-ly-ban-tra-sua-main\Quanlybantrasua\bin\Debug\Quanlybantrasua.pdb
+D:\Hoc\Net\PBl\aaaa\Quan-ly-ban-tra-sua-main\Quanlybantrasua\obj\Debug\Quanlybantrasua.csproj.AssemblyReference.cache
+D:\Hoc\Net\PBl\aaaa\Quan-ly-ban-tra-sua-main\Quanlybantrasua\obj\Debug\Quanlybantrasua.csproj.SuggestedBindingRedirects.cache
+D:\Hoc\Net\PBl\aaaa\Quan-ly-ban-tra-sua-main\Quanlybantrasua\obj\Debug\Quanlybantrasua.Properties.Resources.resources
+D:\Hoc\Net\PBl\aaaa\Quan-ly-ban-tra-sua-main\Quanlybantrasua\obj\Debug\Quanlybantrasua.csproj.GenerateResource.cache
+D:\Hoc\Net\PBl\aaaa\Quan-ly-ban-tra-sua-main\Quanlybantrasua\obj\Debug\Quanlybantrasua.csproj.CoreCompileInputs.cache
+D:\Hoc\Net\PBl\aaaa\Quan-ly-ban-tra-sua-main\Quanlybantrasua\obj\Debug\Quanlybantrasua.exe
+D:\Hoc\Net\PBl\aaaa\Quan-ly-ban-tra-sua-main\Quanlybantrasua\obj\Debug\Quanlybantrasua.pdb
+D:\Hoc\Net\PBl\aaaa\Quan-ly-ban-tra-sua-main\Quanlybantrasua\obj\Debug\Quanlybantrasua.Quanlyhanghoa.resources
+D:\Hoc\Net\PBl\aaaa\Quan-ly-ban-tra-sua-main\Quanlybantrasua\obj\Debug\Quanlybantrasua.Datmon.resources
+C:\Users\User\Downloads\Datmon và Quanliahanghoa-20220422T161043Z-001\Datmon và Quanliahanghoa\bin\Debug\Quanlybantrasua.exe.config
+C:\Users\User\Downloads\Datmon và Quanliahanghoa-20220422T161043Z-001\Datmon và Quanliahanghoa\bin\Debug\Quanlybantrasua.exe
+C:\Users\User\Downloads\Datmon và Quanliahanghoa-20220422T161043Z-001\Datmon và Quanliahanghoa\bin\Debug\Quanlybantrasua.pdb
+C:\Users\User\Downloads\Datmon và Quanliahanghoa-20220422T161043Z-001\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Datmon và Quanliahanghoa-20220422T161043Z-001\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.Datmon.resources
+C:\Users\User\Downloads\Datmon và Quanliahanghoa-20220422T161043Z-001\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.Properties.Resources.resources
+C:\Users\User\Downloads\Datmon và Quanliahanghoa-20220422T161043Z-001\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.Quanlyhanghoa.resources
+C:\Users\User\Downloads\Datmon và Quanliahanghoa-20220422T161043Z-001\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Datmon và Quanliahanghoa-20220422T161043Z-001\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Datmon và Quanliahanghoa-20220422T161043Z-001\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.exe
+C:\Users\User\Downloads\Datmon và Quanliahanghoa-20220422T161043Z-001\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.pdb
+C:\Users\User\Downloads\Datmon và Quanliahanghoa-20220422T161043Z-001\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.GiaodienQLNV.resources
+C:\Users\User\Downloads\Datmon và Quanliahanghoa-20220422T161043Z-001\Datmon và Quanliahanghoa\obj\Debug\quanlitrasua.Doanhthu.resources
+C:\Users\User\Downloads\Datmon và Quanliahanghoa-20220422T161043Z-001\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.GUI.resources
+C:\Users\User\Downloads\Datmon và Quanliahanghoa-20220422T161043Z-001\Datmon và Quanliahanghoa\obj\Debug\thayp.xemdon.resources
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\bin\Debug\Quanlybantrasua.exe.config
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\bin\Debug\Quanlybantrasua.exe
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\bin\Debug\Quanlybantrasua.pdb
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\obj\Debug\quanlitrasua.Doanhthu.resources
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.GUI.resources
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.Properties.Resources.resources
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.Quanlyhanghoa.resources
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\obj\Debug\thayp.xemdon.resources
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.exe
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.pdb
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.Formorder.resources
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.Formchuyenban.resources
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.Formdangnhap.resources
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\obj\Debug\Quanlybantrasua.Formdoimatkhau.resources
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\bin\Debug\EntityFramework.dll
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\bin\Debug\EntityFramework.xml
+C:\Users\User\OneDrive\Máy tính\GUI\Datmon và Quanliahanghoa\bin\Debug\EntityFramework.SqlServer.xml
